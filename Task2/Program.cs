@@ -14,7 +14,7 @@ namespace Task2
             
             for (int i = 2; i < number; i++)
             {
-                F[i] = F[i - 1] + F[i - 2];
+                F[i] = F[i - 1] + F[i - 2]
             }
 
             Console.WriteLine( number + " число Фiбоначчi дорівнює " + F[number-1]);

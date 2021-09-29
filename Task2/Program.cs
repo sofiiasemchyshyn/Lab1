@@ -17,7 +17,7 @@ namespace Task2
                 F[i] = F[i - 1] + F[i - 2];
             }
 
-            Console.WriteLine( number + " число Фiбоначчi рiвне " + F[number-1]);
+            Console.WriteLine( number + " число Фiбоначчi дорівнює " + F[number-1]);
         }
     }
 }

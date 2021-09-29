@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcoLoQJTMQqwGchdmTuWxsEwUyW07ASCse7wNcry5jSatf9A9DPJCNIUX3qjsgsGco9RmATQ2cDy8sHhUDExIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\IT1\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
